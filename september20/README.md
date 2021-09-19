@@ -25,4 +25,4 @@
 
 **Circuit**
 
-<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/september20/Circuit.png" width=400 align=center> 
+<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/september20/Circuit.png" width=600 align=center> 
