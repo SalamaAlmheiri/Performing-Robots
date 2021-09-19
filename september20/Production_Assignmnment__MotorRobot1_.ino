@@ -1,12 +1,12 @@
 /*
- Salama Almheiri
- Production Assignment Robot with Motor
- September 20 2021
+  Salama Almheiri
+  Production Assignment Robot with Motor
+  September 20 2021
 */
 
 const int in1Pin = 7;
 const int in2Pin = 6; //PWN Pin (analogue write)
-const int in3Pin = 4; 
+const int in3Pin = 4;
 const int in4Pin = 5; //PWN Pin (analogue write)
 
 void setup() {
@@ -18,32 +18,45 @@ void setup() {
 }
 
 void loop() {
-  //pwn: higher number= slower
+  //does not move at the start
+  digitalWrite (in1Pin, HIGH);
+  analogWrite (in2Pin, 255);
+  digitalWrite (in3Pin, HIGH);
+  analogWrite (in4Pin, 255);
+  delay(4000);
+
   //Forward
   digitalWrite (in1Pin, LOW);
-  digitalWrite (in2Pin, HIGH);
+  analogWrite (in2Pin, 200);
   digitalWrite (in3Pin, LOW);
-  digitalWrite (in4Pin, HIGH);
+  analogWrite (in4Pin, 200);
   delay(3000);
 
   //Back
   digitalWrite (in1Pin, HIGH);
-  analogWrite (in2Pin, 160);
+  analogWrite (in2Pin, 50);
   digitalWrite (in3Pin, HIGH);
-  analogWrite (in4Pin, 160);
-  delay(3000);
+  analogWrite (in4Pin, 50);
+  delay(1000);
 
-// Right
+  // Right
   digitalWrite (in1Pin, LOW);
-  analogWrite (in2Pin, 75);
+  analogWrite (in2Pin, 180);
   digitalWrite (in3Pin, HIGH);
   analogWrite (in4Pin, 255);
-  delay(2000);
+  delay(1000);
 
-//left 
+  //Back
+  digitalWrite (in1Pin, HIGH);
+  analogWrite (in2Pin, 50);
+  digitalWrite (in3Pin, HIGH);
+  analogWrite (in4Pin, 50);
+  delay(1000);
+
+  //left
   digitalWrite (in1Pin, HIGH);
   analogWrite (in2Pin, 255);
   digitalWrite (in3Pin, LOW);
-  analogWrite (in4Pin, 95);
-  delay(2000);
+  analogWrite (in4Pin, 180);
+  delay(1000);
 }
