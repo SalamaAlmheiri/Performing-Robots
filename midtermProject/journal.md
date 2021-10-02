@@ -8,6 +8,8 @@ Idea:
 - **Actuators** that will be used: 2 DC motors, 2 Servo motors, Neopixel matrix, (maybe an LED).
 
 Initial Design:
+<img src="-" width=400 align=center>
 
 Process 1:
+<img src="-" width=400 align=center>
 
