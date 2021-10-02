@@ -9,9 +9,13 @@ Idea:
 
 Initial Design:
 
-<img src="-" width=400 align=center>
+<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/sketch.png" width=400 align=center>
 
 Process 1:
+- I built the initial structure of the robot (it looks like a house from the inside)
+- I tried my best to make it more organized so that I can easily adjust the wires and other things.
+- I added the 2 DC motors, 2 Servo motors (which will act as the hands to hold the pen),and the 9v battery to make it wireless.
 
-<img src="-" width=400 align=center>
+<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/p2.png" width=300 align=center> <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/p1.png" width=300 align=center> <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/p3.png" width=300 align=center>
+
 
