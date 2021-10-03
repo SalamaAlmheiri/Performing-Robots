@@ -20,3 +20,8 @@ Process 1:
 <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/p2.png" width=300 align=center> <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/p1.png" width=300 align=center> <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/p3.png" width=300 align=center>
 
 
+### October 3
+
+- Today I worked on some part of the code but came across a problem.
+- The DC motors were working fine when I tested them but after I attatched the wheels it stopped working and I can hear a sound from them.
+- I also tested the servo motors and they are working fine but I am having trouble figuring out how to put everything in one code (the DC and Servo motors)
