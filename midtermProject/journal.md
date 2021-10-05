@@ -33,4 +33,4 @@ Process 1:
 - Today I worked on the code for the motors. There will be 2 sequences which will be performed by the robot when 1 of the buttons is pressed. I started working on the first which will be the "fast" sequence. A pen will be attatched to the robot so when it moves, it will be drawing on the paper under it. The idea is to have the performance and the drawing result to be different when pressing a different button. 
 - One button will be "fast". The other "slow", where the robot will be drawing slowly.
 
-<img src="-" width=300 align=center>
+<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/p4.png" width=300 align=center>
