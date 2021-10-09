@@ -43,7 +43,9 @@ This is the button circuit:
 
 - I had a lot of trouble trying to make the servo motors work but they would sometimes not turn properly. One would turn then the other wouldn't and the robot would not stay balanced. So I thought that the problem was that my robot was too big and heavy so I decided to buid a smaller one. But it had the exact same problem, one motor would not turn.
 
-<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/p5.png" width=300 align=center>
+Left= 2nd robot, Right= 1st robot
+
+<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/p5.png" width=500 align=center>
 
 
 ### October 7
