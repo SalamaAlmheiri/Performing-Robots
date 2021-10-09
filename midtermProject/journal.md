@@ -36,3 +36,12 @@ Process 1:
 This is the button circuit:
 
 <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/p4.png" width=300 align=center>
+
+
+### October 6
+
+<img src="-" width=300 align=center>
+
+
+<img src="-" width=300 align=center>
+<img src="-" width=300 align=center>
