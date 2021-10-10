@@ -55,3 +55,15 @@ Left= 2nd robot, Right= 1st robot
 - When I hold the robot in my hand and test it out. both motors turn. But when it is placed on the floor one motor does not turn.
 
 <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/p6.png" width=300 align=center> <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/p7.png" width=300 align=center>
+
+
+### October 9
+
+- I changed the battery and the robot worked. But this is the third time I changed the battery and it keeps running out very quickly even though I remove the battery when I am not using it. I realized that every time the battery voltage decreases, it affects the sequence of movements that I want my robot to do becasue I am using specific variables on the analogWrite pins. 
+
+### October 10
+
+- I attatched 1 pen on each motor (red, green).
+- I **changed** the purpose of the robot a little bit. So instead of the robot doing 2 different sequences when a different button is pressed, it will only do one sequence and the buttons pressed would mean which pen is being chosen by the viewer. Green button= Green pen, Red button= Red pen.
+- The servo motor would move once to move the pen into a position where it could draw on the paper when the sequence starts.
+- I decided to make this change because it was already difficult to create one sequence including the problem that the battery is causing.
