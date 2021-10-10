@@ -70,4 +70,4 @@ Left= 2nd robot, Right= 1st robot
 
 - I also worked on the servo motor code as well. So that is working!
 
- <img src="-" width=300 align=center>
+ <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/p8.png" width=500 align=center>
