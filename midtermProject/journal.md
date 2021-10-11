@@ -70,12 +70,10 @@ Left= 2nd robot, Right= 1st robot
 
 - I also worked on the servo motor code as well. So that is working!
 
-[Transmitter code](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/MidtermT1.ino)
-
+[Transmitter code](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/MidtermT1.ino).  
 [Receiver code](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/MidtermR1.ino)
 
-This is the code I was testing out the Servo and the DC mtors working together:
-
+This is the code I was testing out the Servo and the DC mtors working together:    
 [Servo, DC code](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/MotorAndServo.ino)
 
  <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/p8.png" width=500 align=center>
