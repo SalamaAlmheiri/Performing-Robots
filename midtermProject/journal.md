@@ -86,3 +86,4 @@ This is the code I was testing out the Servo and the DC mtors working together:
 
 <video src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/serial.mov" controls="controls" style="max-width: 730px;">
 </video>
+![serial](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/serial.mov)
