@@ -83,3 +83,5 @@ This is the code I was testing out the Servo and the DC mtors working together:
  
  - I fix one problem, another problem appears!!
  - I have put the Servo and DC motor code that I was testing out, into my receiver code in order to use the robot wireless. But now it decides not to work. When I press the buttons they do react and show the correct data "sending data= 1..." but I think the other radio module is not receiving it because I cannot see the print that says "Green Button" or "Red Button".
+
+<img src="-" width=500 align=center>
