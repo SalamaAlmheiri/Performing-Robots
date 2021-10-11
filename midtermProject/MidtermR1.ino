@@ -2,7 +2,7 @@
   Salama Almheiri
   Midterm (reciever)
   Oct 10 2021
-  Version 1
+  Version 2
 */
 #include <Servo.h>
 Servo myservo;
