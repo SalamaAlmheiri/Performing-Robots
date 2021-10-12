@@ -17,10 +17,10 @@
 **Paper 'artwork':**  
 <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/Paper%20drawing.jpg" width=600 align=center>
 
-### Circuits:    
+### Circuits:
 Button circuit/ Robot Circuit:
 
-<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/p4.png" width=300 align=center>   <img src="-" width=300 align=right>
+<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/p4.png" width=400 align=center>   <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/p9.jpg" width=480 align=right>
 
 ### Codes:  
 [Transmitter code](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/MidtermTransmitterFinal.ino)   
