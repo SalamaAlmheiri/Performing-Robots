@@ -94,6 +94,14 @@ This is what the serial monitor response looks like:
 - Also this is the fifth time I change the 9v battery. It keeps running out quickly and affecting the sequence of my robots movement. This has caused me a lot of trouble becasue it keeps making me have to adjust the analogueWrite variables and I have to attatch and reattach the usb cable everytime I edit the code!
 - I put a big peice of paper under the robot and tested the code which created random scribbles of green and red which looks nice and it is what I was looking for!
 
+Codes:    
+[Transmitter code](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/MidtermTransmitterFinal.ino)   
+[Receiver code](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/MidtermReceiverFinal.ino)
+
+Video:   
+[Squiggle Robot](https://youtu.be/SD4k7RjuRM4)     
+<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/Squiggle.jpg" width=400 align=center>
+
 Here is what the paper 'artwork' looks like:  
-<img src="-" width=500 align=center>
+<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/Paper%20drawing.jpg" width=400 align=center>
 
