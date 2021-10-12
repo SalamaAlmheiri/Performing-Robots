@@ -7,7 +7,7 @@
 - 2 DC Motors
 - 2 Servo Motors
 - 2 Radio modules
-- 2 Buttons
+- 2 Push Buttons
 
 ### Codes:  
 [Transmitter code]() 
