@@ -86,3 +86,14 @@ This is the code I was testing out the Servo and the DC mtors working together:
 
 This is what the serial monitor response looks like:    
 [Serial monitor](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/serial.mov)
+
+
+### October 12
+
+- It turns out that my receiver radio was the problem! I changed it and now the new one is working properly and receiving the information.
+- Also this is the fifth time I change the 9v battery. It keeps running out quickly and affecting the sequence of my robots movement. This has caused me a lot of trouble becasue it keeps making me have to adjust the analogueWrite variables and I have to attatch and reattach the usb cable everytime I edit the code!
+- I put a big peice of paper under the robot and tested the code which created random scribbles of green and red which looks nice and it is what I was looking for!
+
+Here is what the paper 'artwork' looks like:  
+<img src="-" width=500 align=center>
+
