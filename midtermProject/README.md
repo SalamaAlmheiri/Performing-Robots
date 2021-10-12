@@ -1,5 +1,5 @@
 # Midterm Project Performing Robot 
-### Concept:
+## Concept:
 ### Robot Name: Squiggle
 - 
 
