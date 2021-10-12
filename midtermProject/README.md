@@ -1,7 +1,7 @@
 # Midterm Project Performing Robot 
 ## Concept:
 ### Robot Name: Squiggle
-- 
+- **Expressions:** happy and excited!
 
 **Components used:** 
 - 2 DC Motors
