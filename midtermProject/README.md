@@ -11,7 +11,9 @@
 <img src="https://www.studiointernational.com/images/articles/c/095-cohen-harold-2017/141126.jpg" width=400 align=Center>
 
 ### Squiggle
-**Video:** [Squiggle Robot](https://youtu.be/SD4k7RjuRM4)  
+**Video:** [Squiggle Robot](https://youtu.be/SD4k7RjuRM4)   
+- First the green button is pressed, then the servo motor attatched with the green pen moves once to the drawing position, then the movement sequence plays. I had intended to make the robot return to its starting position which worked when I tested it out with the code without the radio. But when I tried testing it out with the radio it would just not go where I wanted it to and it was hard to attatch the wire and upload everytime I made a change in the code.
+- So I moved the robot to its original position and pressed the red button so that it would draw with the red.
 
 <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/Squiggle.jpg" width=400 align=center>     <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/Squiggle2.jpg" width=400 align=right>
 
@@ -29,6 +31,7 @@
 
 **Changes:**
 - In my initial design I intended to add a neopixel and some LED's but that would have over complicated the process and the other problem took a lot of my time to figure out so I decided not to add them and that still did not change the purpose of my robot!
+- Also, I had wanted the robot to be expressive by doing 2 different sequences when a different button is pressed so that each drawing would look different. But that was hard to implement because the DC motors are not that accurate.
 
 **Components used:** 
 - 2 DC Motors
