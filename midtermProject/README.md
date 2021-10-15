@@ -48,3 +48,6 @@ Button circuit/ Robot Circuit:
 ### Codes:  
 [Transmitter code](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/MidtermTransmitterFinal.ino)   
 [Receiver code](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/MidtermReceiverFinal.ino)
+
+### Schematics:   
+<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/schematic.png" width=400 align=center>
