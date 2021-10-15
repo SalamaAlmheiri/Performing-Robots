@@ -50,4 +50,4 @@ Button circuit/ Robot Circuit:
 [Receiver code](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/MidtermReceiverFinal.ino)
 
 ### Schematics:   
-<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/schematic.png" width=400 align=center>
+<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/midtermProject/schematic.png" width=600 align=center>
