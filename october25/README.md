@@ -2,9 +2,12 @@
 
 ### *The Wizard Of Oz* as a Robotic Performance
 
+https://i.ytimg.com/vi/k3B1GCpxzyk/maxresdefault.jpg
+
 **About The Wizard of Oz:**
 - It was a 1902 musical extravaganza based on the 1900 novel The Wonderful Wizard of Oz by L. Frank Baum.
 - I Remember watching the movie when I was younger and being fascinated by the characters and story so I decided to base this assignment on the musical play of which is based on the story.
+
 [Example Play](https://youtu.be/k3B1GCpxzyk)
 
 Short Synopsis:
