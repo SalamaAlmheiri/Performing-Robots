@@ -2,7 +2,7 @@
 
 ### *The Wizard Of Oz* as a Robotic Performance
 
-<img src="https://i.ytimg.com/vi/k3B1GCpxzyk/maxresdefault.jpg" width=400 align=center>
+<img src="https://i.ytimg.com/vi/k3B1GCpxzyk/maxresdefault.jpg" width=500 align=center>
 
 **About The Wizard of Oz:**
 - It was a 1902 musical extravaganza based on the 1900 novel The Wonderful Wizard of Oz by L. Frank Baum.
