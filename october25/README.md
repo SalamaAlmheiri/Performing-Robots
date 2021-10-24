@@ -17,7 +17,7 @@ Scene:
 - The scene that I chose is when Dorothy meets the Tin man. She finds him rusted in the forest unable to move and helps him by using an oil can to release him. 
 - Also, the fact that the Tin man was seeking a heart which is contradicting to the idea that a robot would perform a scene of a character that wants a heart, even though it is obvious that a robot cannot have a heart and the same goes for the character which is a object "tin".
 
-<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tin-man-1566484463.jpg" width=300 align=center> <img src="file:///Users/salama/Desktop/tin.png" width=300 align=center>
+<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tin-man-1566484463.jpg" width=300 align=center> <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/october25/tin.png" width=300 align=center>
 
 
 Robot Actor:
