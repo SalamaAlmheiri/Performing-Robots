@@ -4,4 +4,7 @@
 
 ## 2. Robot Play Idea:
 
+
 ## 3. Prototyping Shield Update:
+
+<img src="-" width=500 align=center>
