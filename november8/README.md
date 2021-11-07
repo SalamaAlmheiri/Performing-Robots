@@ -7,4 +7,4 @@
 
 ## 3. Prototyping Shield Update:
 
-<img src="-" width=500 align=center>
+<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/november8/prototyping%20shield.png" width=500 align=center>
