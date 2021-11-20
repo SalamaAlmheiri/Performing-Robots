@@ -1,7 +1,7 @@
 # Snow White and the Seven Dwarfs Play
 In one scene of the movie, the dwarfs are working in a mine. Sleepy transports the diamonds, Doc determines their value and Dopey throw away the rejected ones. Happy, Grumpy, Sneezy and Bashful are the diggers.
 
-### Scene for the Play:
+### Scene for our Play:
 **Happy, Grumpy, Sneezy and Bashful:**
 - 4 robots that will have a motion of "digging" the mines for diamonds.
 - The digging motion can be achieved using the servo motors attatched with an object that looks like an axe. It will have a repeating motion of hitting the "rock" area and pulling back.
