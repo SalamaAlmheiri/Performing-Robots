@@ -1,3 +1,3 @@
-# Final Project
+# Final Project (working with Amina)
 
 ### Initial Design:
