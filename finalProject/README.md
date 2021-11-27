@@ -2,7 +2,7 @@
 
 ## Robot Design - Happy and Bashful by Salama and Amina
 
-### Components:
+## Components:
 **1 servo motor**
 - To move the arm that will have a removable axe attached to it.
 - The servo motor will move up and down continuously while pulling the string that is attached to the cardboard flap which will make the “hand” movement for the axe.
@@ -24,7 +24,7 @@
 - Hammer or other tools for the mine
 - Belt
 
-### Scenes
+## Scenes
 **Scene 2 (inside the mine)**
 - Neopixel= happy
 - Using the buttons to move our robot (DC)
@@ -37,14 +37,14 @@
 
 **Scene 5 (find snow white asleep)**
 
-**Aminas Idea:**
+## Aminas Idea:
 - The robot will be both happy and bashful but in different scenes it will change.
 - In the mine it will be happy
 - Meeting Snow White will be bashful (making the red face with neopixel and awkward moves with DC motors).
 - In the final scene, the robot becomes more comfortable with Snow White and turns back to “happy”
 
 
-**My Design:**
+## My Design:
 
 <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/1.png" width=300 align=center>
 <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/2.png" width=300 align=center>
