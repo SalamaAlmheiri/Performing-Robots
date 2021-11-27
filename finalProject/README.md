@@ -6,6 +6,7 @@
 **1 servo motor**
 - To move the arm that will have a removable axe attached to it.
 - The servo motor will move up and down continuously while pulling the string that is attached to the cardboard flap which will make the “hand” movement for the axe.
+<img src="-" width=500 align=center>
 
 **4 DC motors**
 - Controlled by the buttons
