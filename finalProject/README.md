@@ -36,6 +36,7 @@
 - Robots leaving: use buttons to move.
 
 **Scene 5 (find snow white asleep)**
+- .
 
 ## Aminas Idea:
 - The robot will be both happy and bashful but in different scenes it will change.
@@ -46,6 +47,5 @@
 
 ## My Design:
 
-<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/1.png" width=300 align=center>
-<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/2.png" width=300 align=center>
+<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/1.png" width=300 align=center> <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/2.png" width=300 align=center>
 
