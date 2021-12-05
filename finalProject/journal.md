@@ -13,7 +13,7 @@ Initial idea and design are [here](https://github.com/SalamaAlmheiri/Performing-
 - I also built a hand, which is attatched to a string on the servo motor, so that when the servo turns it would pull the string and make the hand movement. (for the mining scene with the axe)
 - I tested the servo with this [code](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/ServoTest1.ino).  
 
-This is what it looks like:
+This is what it looked like at first:
 
 <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/robot1.png" width=340 align=center><img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/robot2.png" width=300 align=center><img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/robot3.png" width=300 align=center>
 
@@ -27,9 +27,10 @@ This is what it looks like:
 
 2. Turning right and left
 - Another problem was making the robot turn. When I press the left button, the robot would not turn.
-- First I tried with making 1 motor on the right to turn while the other are still. But the robot would not move (maybe because it is too heavy to move for 1 motor). [video]()
+- First I tried making 1 motor on the right to turn while the other are still. But the robot would not move (maybe because it is too heavy to move with 1 motor). [video]()
 - So I tried making both motors on the right to turn, but the robot would go straight and not turn left. [video]()
 
-Initial code:
+**Initial code:**
 [Transmitter]() 
+
 [Receiver]() 
