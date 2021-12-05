@@ -31,6 +31,7 @@ This is what it looked like at first:
 - So I tried making both motors on the right to turn, but the robot would go straight and not turn left. [video]()
 
 **Initial code:**
+
 [Transmitter]() 
 
 [Receiver]() 
