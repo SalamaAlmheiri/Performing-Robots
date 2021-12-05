@@ -1,5 +1,6 @@
 # Final Project Documentation 
 ## Happy and Bashful robot (by Salama and Amina)
+Initial idea and design are [here](https://github.com/SalamaAlmheiri/Performing-Robots/blob/874bc9346d5aed8b5ae2174b336bc6d59bdcae05/finalProject/README.md)
 
 ### Week 1 (Nov 28- Dec 4)
 - Amina and I divided the work into 2 parts: the body, the head
