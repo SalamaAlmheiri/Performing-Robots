@@ -8,7 +8,7 @@
 **Body:**
 (4 DC motors, 1 Servo motor)
 - I started by building the body of the robot and attaching the 4 DC motors (with the H-bridge).
-- I tested that they all work with this [code]().  
+- I tested that they all work with this [code](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/2_Motors_Switch.ino).  
 - I also built a hand, which is attatched to a string on the servo motor, so that when the servo turns it would pull the string and make the hand movement.
 - I tested the servo with this [code](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/ServoTest1.ino).  
 
