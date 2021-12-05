@@ -1,4 +1,4 @@
-# Final Project (working with Amina)
+# Final Project Design (working with Amina)
 
 ## Robot Design - Happy and Bashful by Salama and Amina
 
