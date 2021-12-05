@@ -14,11 +14,11 @@
 
 This is what it looks like:
 
-<img src="-" width=500 align=center>
+<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/robot1.png" width=340 align=center><img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/robot2.png" width=300 align=center><img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/robot3.png" width=300 align=center>
 
 **With the radio:**
 - Next I worked on the transmitter and receiver code to put everything together in one code and to be able control the robot with the buttons.
-- The up, down and left buttons worked. 
+- The up, down and left buttons worked and the robot is moving forward and backwards correctly when pressing the buttons.
 
 **Problems:**
 1. Right button
