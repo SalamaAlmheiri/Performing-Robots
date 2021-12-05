@@ -12,6 +12,10 @@
 - I also built a hand, which is attatched to a string on the servo motor, so that when the servo turns it would pull the string and make the hand movement.
 - I tested the servo with this [code]().  
 
+This is what it looks like:
+
+<img src="-" width=500 align=center>
+
 **With the radio:**
 - Next I worked on the transmitter and receiver code to put everything together in one code and to be able control the robot with the buttons.
 - The up, down and left buttons worked. 
