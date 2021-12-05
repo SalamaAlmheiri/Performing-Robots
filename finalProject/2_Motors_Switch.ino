@@ -1,6 +1,3 @@
-// Simple program to demonstrate controlling the speed and direction
-// of a DC motor using the L298 H-bridge module
-
 //Motor test 1 (for final)
 
 // Pin connections
@@ -30,7 +27,8 @@ void setup() {
 
 void loop() {
 
-  if (digitalRead(swPin1) == HIGH) { //Front
+  if (digitalRead(swPin1) == HIGH) { 
+    //Front
     digitalWrite(in1aPin, LOW);
     digitalWrite(in2aPin, HIGH);
     digitalWrite(in3aPin, LOW);
@@ -53,17 +51,6 @@ void loop() {
     digitalWrite(in4bPin, HIGH);
   }
 }
-
-// Front
-//    digitalWrite(in1aPin, LOW);
-//    digitalWrite(in2aPin, HIGH);
-//    digitalWrite(in3aPin, LOW);
-//    digitalWrite(in4aPin, HIGH);
-//
-//    digitalWrite(in1bPin, LOW);
-//    digitalWrite(in2bPin, HIGH);
-//    digitalWrite(in3bPin, LOW);
-//    digitalWrite(in4bPin, HIGH);
 
 //Back
 //    digitalWrite(in1aPin, HIGH);
