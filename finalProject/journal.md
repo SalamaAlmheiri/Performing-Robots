@@ -44,7 +44,7 @@ This is what it looked like at first:
 - We also got a (santa) hat which looks like a dwarf hat, as well as a belt to make it look fancy.
 - Also, we stuck some cotton to make a white beard.
 
-<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/robot4.png" width=300 align=center> <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/robot5.png" width=200 align=center> <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/robot6.png" width=300 align=center>
+<img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/robot4.png" width=300 align=center> <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/robot5.png" width=250 align=center> <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/robot6.png" width=300 align=center>
 
 
 **Code** (For the Arduino that is controlling the DC motors)
