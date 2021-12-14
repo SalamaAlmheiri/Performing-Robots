@@ -45,6 +45,7 @@ This is what it looked like at first:
 - Also, we stuck some cotton to make a white beard.
 
 **Code** (For the Arduino that is controlling the DC motors)
-[Transmitter](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/FinalT2.ino) 
+
+[Transmitter](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/FinalT2.ino)    
 
 [Receiver](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/FinalR2.ino) 
