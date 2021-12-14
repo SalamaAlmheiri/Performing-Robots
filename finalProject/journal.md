@@ -47,7 +47,7 @@ This is what it looked like at first:
 <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/robot4.png" width=300 align=center> <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/robot5.png" width=250 align=center> <img src="https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/robot6.png" width=300 align=center>
 
 
-**Code** (For the Arduino that is controlling the DC motors)
+**Code:** (For the Arduino that is controlling the DC motors)
 
 [Transmitter](https://github.com/SalamaAlmheiri/Performing-Robots/blob/main/finalProject/FinalT2.ino)    
 
